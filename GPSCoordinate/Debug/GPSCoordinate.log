@@ -1,0 +1,30 @@
+﻿  ABOUT.cpp
+  Contrast.cpp
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\Contrast.cpp(665,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\Contrast.cpp(666,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\Contrast.cpp(667,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\Contrast.cpp(621,31): warning C4101: “yy”: 未引用的局部变量
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\Contrast.cpp(621,23): warning C4101: “xx”: 未引用的局部变量
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\Contrast.cpp(621,39): warning C4101: “zz”: 未引用的局部变量
+  DaFun.cpp
+  framework.cpp
+  GPS.cpp
+  GPSCoordinate.cpp
+  GPSCoordinateDlg.cpp
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\GPSCoordinateDlg.cpp(396,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  GPSPaint.cpp
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\GPSPaint.cpp(164,6): warning C4101: “nY”: 未引用的局部变量
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\GPSPaint.cpp(163,6): warning C4101: “nX”: 未引用的局部变量
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\GPSPaint.cpp(369,25): warning C4244: “=”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\GPSPaint.cpp(370,25): warning C4244: “=”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+  JGBG1.cpp
+  m_ListBox.cpp
+  ReadShow.cpp
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\ReadShow.h(18,10): error C2059: 语法错误:“=”
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\ReadShow.h(18,21): error C2238: 意外的标记位于“;”之前
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\ReadShow.h(19,7): error C2059: 语法错误:“=”
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\ReadShow.h(19,15): error C2238: 意外的标记位于“;”之前
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\ReadShow.cpp(15,24): error C2039: "IDD": 不是 "ReadShow" 的成员
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\ReadShow.h(8): message : 参见“ReadShow”的声明
+C:\Users\12499\source\repos\GPSCoordinate\GPSCoordinate\ReadShow.cpp(15,27): warning C4244: “参数”: 从“double”转换到“UINT”，可能丢失数据
+  正在生成代码...
